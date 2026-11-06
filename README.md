@@ -70,13 +70,13 @@ This project is intended as a learning example for beginners who are starting th
 
 ---
 
-## 👨‍💻 Autor | Author
+##  Autor | Author
 
 Desarrollado con HTML5 y CSS3 como proyecto de práctica y aprendizaje.
 
 Developed with HTML5 and CSS3 as a practice and learning project.
 
-## 📄 Licencia | License
+##  Licencia | License
 
 Este proyecto es de uso libre para fines educativos y personales.
 
